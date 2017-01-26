@@ -158,7 +158,7 @@ Syllabus Changes: As your instructor, I retain the right to make changes based o
 ##Extra credit
 * Should you find a mistake or a deviation from the [course style guide](https://github.com/johnsonchmatc/ruby-style-guide) in the [course repository on Github](https://github.com/johnsonchmatc/madisoncollege_ruby_on_rails) you may submit a pull request with changes made and comment describing what was wrong with the course materials.  Each **accepted** pull request will be worth 5 extra credit points.  The change is of my discression to accept.
 
-**Grades Shared Upon Request:** I keep a spreadsheet with Grades, please keep track of your own grades.  I will tell you when you get Labs/Readings checked off in class.
+**Grades Shared Upon Request:** I keep a spreadsheet with grades, please keep track of your own grades.  I will tell you when you get Labs/Readings checked off in class.
 
 ### **Evaluation**
 
